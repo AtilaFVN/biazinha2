@@ -1,0 +1,34 @@
+{
+  "name": "cursonode",
+  "version": "1.0.0",
+  "description": "loucura total",
+  "main": "index.js",
+  "scripts": {
+    "test": "testando",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AtilaFVN/biazinha2.git"
+  },
+  "keywords": [
+    "nodejs",
+    "npm",
+    "express",
+    "fs",
+    "path",
+    "url",
+    "mongodb",
+    "udp",
+    "crypto"
+  ],
+  "author": "Atila Fragoso",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AtilaFVN/biazinha2/issues"
+  },
+  "homepage": "https://github.com/AtilaFVN/biazinha2#readme",
+  "dependencies": {
+    "bootstrap": "^5.2.3"
+  }
+}

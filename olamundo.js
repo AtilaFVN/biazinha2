@@ -1,1 +1,1 @@
-document.write("foi mudado")
+console.log("foi mudado")
